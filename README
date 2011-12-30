@@ -1,0 +1,22 @@
+Functions to:
+
+- validate ISBN-10, ISBN-13 and EAN barcodes;
+
+- convert between ISBN-10 and ISBN-13 (both ways);
+
+- obtain the market or language from a small subset of ISBN prefixes,
+  focusing at this time on ISBN prefixes used in the Americas and Europe;
+
+Contributions to extend and improve this library are very welcome.
+
+Tested with:
+
+- cPython 2.6, 2.7
+- cPython 3.2
+- Pypy 1.7 (2.7)
+- Jython 2.5.2
+
+This library is hereby placed in the public domain.
+
+Luciano Ramalho, São Paulo, Brazil, December 2011
+
